@@ -145,8 +145,8 @@ Phasellus a turpis sollicitudin, bibendum massa et, imperdiet neque. Integer qui
 Integer cursus ex sed magna vehicula finibus. Proin tempus orci quis dolor tempus, nec condimentum odio vestibulum.
 Etiam efficitur sollicitudin libero, tincidunt volutpat ligula interdum sed.
 
-Data Monitor
-============
+Data Monitoring
+===============
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum nulla vel neque venenatis,
 nec placerat lorem placerat. Cras purus eros, gravida vitae tincidunt id, vehicula nec nulla.

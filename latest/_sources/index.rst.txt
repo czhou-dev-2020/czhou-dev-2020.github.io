@@ -13,10 +13,15 @@ docs.RillSoft.Net was linked to czhou-dev-2020.github.io on `czhou-dev-2020 repo
 
 created and maintained by Crane Zhou since 2021.06.12.
 
+latest version: 0.2
+
+If you would like to join my team to update this document and other projects,      
+please send your application mail to: support@rillsoft.net
+
 .. comment :caption: Documentation Home:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
 
    Documentation Home <self>
