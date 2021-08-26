@@ -12,8 +12,9 @@ RillSoft belongs to RillGroup and initialize all the projects of RillGroup for m
 docs.RillSoft.Net was linked to czhou-dev-2020.github.io on `czhou-dev-2020 repo`_ temporarily.
 
 created and maintained by Crane Zhou since 2021.06.12.
+latest version (v0.3) was updated on 2021.08.26
 
-latest version: 0.2
+latest version: 0.3
 
 If you would like to join my team to update this document and other projects,      
 please send your application mail to: support@rillsoft.net
