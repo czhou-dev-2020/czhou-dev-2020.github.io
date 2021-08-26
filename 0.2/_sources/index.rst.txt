@@ -1,0 +1,44 @@
+.. docs.RillSoft.Net documentation master file, created by
+   sphinx-quickstart on Mon Jun 14 06:55:49 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to docs.RillSoft.Net's documentation!
+=============================================
+
+docs.RillSoft.Net was used to provide all the documentations of RillSoft.Net. 
+RillSoft belongs to RillGroup and initialize all the projects of RillGroup for methodologies and practice.
+
+docs.RillSoft.Net was linked to czhou-dev-2020.github.io on `czhou-dev-2020 repo`_ temporarily.
+
+created and maintained by Crane Zhou since 2021.06.12.
+
+latest version: 0.2
+
+If you would like to join my team to update this document and other projects,      
+please send your application mail to: support@rillsoft.net
+
+.. comment :caption: Documentation Home:
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   Documentation Home <self>
+   business/index
+   projects/index
+   teams/index
+   gifts
+   technology
+   versions
+   status
+
+.. _czhou-dev-2020 repo: https://github.com/czhou-dev-2020
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+

@@ -70,3 +70,21 @@ Fusce aliquet auctor cursus. Phasellus ex neque, vestibulum non est vitae, viver
 Donec vestibulum convallis justo, a faucibus lorem vulputate vel. Aliquam cursus odio eu felis sodales aliquet.
 Aliquam erat volutpat. Maecenas eget dictum mauris. Suspendisse arcu eros, condimentum eget risus sed,
 luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper semper enim commodo nec.
+
+Net Zero by 2050
+================
+
+Net Zero by 2050: A Roadmap for the Global Energy Sector
+
+The number of countries announcing pledges to achieve net-zero greenhouse gas emissions over the coming decades continues to grow. At the same time, questions are being asked about whether net-zero emissions can be achieved globally by 2050 with a view to limiting global warming to 1.5 °C, and in particular what it would mean for the energy sector.
+
+This underlines the need for a global pathway that explores what would need to happen to the energy sector to achieve net-zero emissions by 2050. In line with an official request by the COP26 Presidency, the IEA is developing a new special report providing the first comprehensive energy-sector pathway towards global net-zero emissions by 2050. The IEA special report assesses the policy requirements, the deployment and innovation needs, the necessary investments, the economic benefits and the wider implications for the world.
+
+The IEA special report has three main aims:
+
+- To examine the impacts of announced net-zero emissions pledges and what they might mean for the energy sector.
+- To develop a new energy-sector pathway towards achieving net-zero emissions globally by 2050. The report will provide a detailed sector-by-sector analysis of the changes that would be needed over the next 30 years, including specific technology and policy milestones, and the wider implications for economies and society.
+- To set out key policy recommendations for governments to act upon in the near-term, and a long-term agenda for change to achieve net-zero goals, including with a view to reaching other Sustainable Development Goals.
+
+https://www.iea.org/events/net-zero-by-2050-a-roadmap-for-the-global-energy-system
+
