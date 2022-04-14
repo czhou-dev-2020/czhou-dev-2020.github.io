@@ -1,0 +1,82 @@
+
+.. _changelogs:
+
+***********
+Change Logs
+***********
+
++------------------+------------------+------------+
+| Versions         | Name             | Date       |
++==================+==================+============+
+| 0.5              | Crane Zhou       | 2022.04.15 |
++------------------+------------------+------------+
+| 0.3              | Crane Zhou       | 2021.08.26 |
++------------------+------------------+------------+
+| 0.2              | Crane Zhou       | 2021.06.12 |
++------------------+------------------+------------+
+
+ver 0.5
+=======
+
+:Date: 2022.04.15.  
+
+This is the latest version.  
+
+.. note:: This is a pre-release version
+
+Incompatible Changes
+--------------------
+
+* None.
+
+Deprecated
+----------
+
+* None.
+
+Features
+--------
+
+* Added and updated change Logs.
+* Added some project list and project details.
+* Updated Technology Stack.
+
+A number of accessibility features were added in this release:
+
+* No new features.  
+
+Fixes
+-----
+
+* None.
+
+Other Changes
+-------------
+
+* None.
+
+ver 0.4
+=======
+
+.. note:: This version was skipped.
+
+ver 0.3
+=======
+
+:Date: 2021.08.26.  
+
+* added some project list and project details. 
+* documents structure updated.
+
+ver 0.2
+=======
+
+:Date: 2021.06.12.  
+
+* append online versions list.  
+* documents structure updated.
+
+ver 0.1
+=======
+
+* establish basic documents structure.  
