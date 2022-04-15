@@ -14,7 +14,7 @@ Suspendisse quis volutpat ipsum. Sed lobortis scelerisque tristique. Aenean cond
 quis accumsan ipsum laoreet ut. Integer porttitor maximus suscipit. Mauris in posuere sapien.
 Aliquam accumsan feugiat ligula, nec fringilla libero commodo sed. Proin et erat pharetra.
 
----------
+----------
 
 Etiam turpis ante, luctus sed velit tristique, finibus volutpat dui. Nam sagittis vel ante nec malesuada.
 Praesent dignissim mi nec ornare elementum. Nunc eu augue vel sem dignissim cursus sed et nulla.
@@ -87,4 +87,12 @@ The IEA special report has three main aims:
 - To set out key policy recommendations for governments to act upon in the near-term, and a long-term agenda for change to achieve net-zero goals, including with a view to reaching other Sustainable Development Goals.
 
 https://www.iea.org/events/net-zero-by-2050-a-roadmap-for-the-global-energy-system
+
+
+The Direction of Innovation
+===========================
+
+《World Intellectual Property Report 2022》
+
+https://www.wipo.int/wipr/en/2022/
 
